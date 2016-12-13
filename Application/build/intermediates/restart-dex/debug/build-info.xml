@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="16219315216049"
+    token="-4563643021091607196"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="133" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="70" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="16219315216049"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

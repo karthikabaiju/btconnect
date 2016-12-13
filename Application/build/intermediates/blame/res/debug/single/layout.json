@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/activity_device_list.xml",
+        "source": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/message.xml",
+        "source": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/layout/message.xml"
+    },
+    {
+        "merged": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/fragment_bluetooth_chat.xml",
+        "source": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/layout/fragment_bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/layout/device_name.xml"
+    }
+]

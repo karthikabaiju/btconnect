@@ -1,0 +1,561 @@
+[
+    {
+        "outputFile": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2735,
+                    "endColumn": 58,
+                    "endOffset": 2789
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 2794,
+                    "endColumn": 56,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 2851,
+                    "endColumn": 53,
+                    "endOffset": 2900
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 2905,
+                    "endColumn": 42,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 69,
+                    "endOffset": 3013
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 3018,
+                    "endColumn": 42,
+                    "endOffset": 3056
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 3061,
+                    "endColumn": 43,
+                    "endOffset": 3100
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3105,
+                    "endColumn": 44,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endColumn": 42,
+                    "endOffset": 3188
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3193,
+                    "endColumn": 41,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endColumn": 67,
+                    "endOffset": 3298
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3303,
+                    "endColumn": 46,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 46,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endColumn": 101,
+                    "endOffset": 3447
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3452,
+                    "endColumn": 56,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endColumn": 58,
+                    "endOffset": 3563
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3568,
+                    "endColumn": 72,
+                    "endOffset": 3636
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3641,
+                    "endLine": 39,
+                    "endColumn": 13,
+                    "endOffset": 4225
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/base-strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4230,
+                    "endColumn": 55,
+                    "endOffset": 4281
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4286,
+                    "endColumn": 67,
+                    "endOffset": 4349
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4354,
+                    "endColumn": 75,
+                    "endOffset": 4425
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4430,
+                    "endColumn": 52,
+                    "endOffset": 4478
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/fragmentview_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4483,
+                    "endColumn": 52,
+                    "endOffset": 4531
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/fragmentview_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4536,
+                    "endColumn": 60,
+                    "endOffset": 4592
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4597,
+                    "endColumn": 68,
+                    "endOffset": 4661
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4666,
+                    "endColumn": 68,
+                    "endOffset": 4730
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4735,
+                    "endColumn": 37,
+                    "endOffset": 4768
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4773,
+                    "endColumn": 96,
+                    "endOffset": 4865
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4870,
+                    "endColumn": 58,
+                    "endOffset": 4924
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4929,
+                    "endColumn": 61,
+                    "endOffset": 4986
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4991,
+                    "endColumn": 71,
+                    "endOffset": 5058
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5063,
+                    "endColumn": 63,
+                    "endOffset": 5122
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5127,
+                    "endColumn": 50,
+                    "endOffset": 5173
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5178,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 5587
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5592,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5651
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5656,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 5777
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5782,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5905
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5910,
+                    "endColumn": 59,
+                    "endOffset": 5965
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5970,
+                    "endColumn": 52,
+                    "endOffset": 6018
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6023,
+                    "endColumn": 26,
+                    "endOffset": 6045
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6050,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 6241
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6246,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 6519
+                },
+                "from": {
+                    "file": "/home/prince/Downloads/BluetoothChat/BluetoothChat/Application/src/main/res/values/template-styles.xml"
+                }
+            }
+        ]
+    }
+]
